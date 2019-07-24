@@ -1,5 +1,6 @@
 <?php
 
+namespace Splx\Parser;
 
 interface ParserInterface
 {

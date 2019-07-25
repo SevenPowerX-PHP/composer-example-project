@@ -1,4 +1,7 @@
 <?php
+/**
+ * @test test test
+ */
 
 namespace Splx\Parser;
 
